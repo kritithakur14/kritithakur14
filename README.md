@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi,  Kriti here 👋  <br>Backend developer working with Node.js and Express
+Hi,  My name is Kriti <br>I'm a backend developer working with Node.js and Express
 
 
 ## 🌐 Socials:
