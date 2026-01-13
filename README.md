@@ -1,5 +1,9 @@
 # 💫 About Me:
-<br>🌱 I’m currently learning<br>
+<br>Hi, I’m Kriti 👋 <br>
+<br>Backend developer (Node.js, Express, MongoDB)<br>
+
+<br>🛠️ Interested in backend development and APIs<br>
+<br>📍 Based in India<br>
 
 
 ## 🌐 Socials:
