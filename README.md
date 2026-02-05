@@ -1,5 +1,6 @@
 # 💫 About Me:
-Hi,  My name is Kriti <br>I'm a backend developer working with Node.js and Express
+Hi,  My name is Kriti <br>Fun fact: I overthink README files.
+
 
 
 ## 🌐 Socials:
